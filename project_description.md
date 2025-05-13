@@ -1,0 +1,7 @@
+# Algotrading Simulation Project
+
+This repo stores my biggest R project so far - algorithmic trading strategy based on machine learning with the goal of outperforming the market by leveraging data-driven insights and classification models. The ML algorithms are trained on various macroeconomic data and technical metrics derived from the historical price. The resulting trading strategy achieved an Inception-to-Date Return of 89.01%, significantly outperforming the S&P 500 benchmark return of 42.75% over the same period. This is a project that spent a lot of time working on, it is uploaded in my GitHub account and I will be really happy to talk about in more detail. 
+
+I will write a better description of the project soon and upload the finished notebook as well as a presentation with the final results.
+
+If you find it interesting, do not hesitate to contact me :)
